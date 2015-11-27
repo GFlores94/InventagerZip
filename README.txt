@@ -1,4 +1,4 @@
-Drag Compiled Folder to C:\
+Drag InventagerZip-master Folder to C:\
 You can put Run.bat to desktop as shortcut
 
 Patch notes:
